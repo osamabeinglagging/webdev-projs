@@ -1,4 +1,5 @@
-STD - Slaying The Dragon - The Youtuber\n
+STD - Slaying The Dragon - The Youtuber
+
 This is my first project and its basically a 1:1 copy of the website built in this video:
 https://www.youtube.com/watch?v=dLDn_k8GmaU
 
