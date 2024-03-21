@@ -1,0 +1,17 @@
+{
+  "name": "std-portfolio",
+  "version": "1.0.0",
+  "description": "STD - Slaying The Dragon - The Youtuber",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.4.35",
+    "vite": "^5.1.6"
+  }
+}
